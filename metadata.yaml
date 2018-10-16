@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'SB'
 - !lcsh 'Apples'
+- GITenberg
 tableOfContents: Introduction -- History of the apple -- Propagation -- Dwarfing --
   Diseases -- The site for an orchard -- Preparation of the soil for an orchard --
   Selection and planting -- Culture, etc. -- Philosophy of pruning -- Thinning --
